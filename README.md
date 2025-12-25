@@ -37,3 +37,30 @@ Python Basics
 -classes and objects
   just basics (some topics not completed)
 -Also done some problems in python language which are in cs101 course
+## week2 —
+
+### Dataset Understanding
+- saw what columns are there like text and label  
+- each row is one news  
+- understood fake and real labels  
+
+### Used Pandas for Dataset
+- read csv file  
+- head function  
+- checked shape and columns  
+- checked fake and real count  
+- checked missing values  
+- only basic pandas  
+
+### Text Preprocessing
+- converted text to lowercase  
+- removed punctuation and special characters  
+- tokenization  
+- removed stopwords  
+- lemmatization  
+
+### Libraries Used
+- pandas  
+- nltk  
+- re  
+
