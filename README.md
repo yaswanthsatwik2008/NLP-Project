@@ -1,58 +1,58 @@
 ## week1-Python Basics
 
-###Variables& Data Types
+Variables& Data Types
 
-###Getting Input from Users
+Getting Input from Users
  - learning syntax
 
-###Lists,Tuples,Sets
+Lists,Tuples,Sets
   - their differences in flexibilities
 
-###Type Casting
+Type Casting
   - changing one type to another
 
-###Strings
+Strings
 - slicing,modifying,adding
   --format strings(better)
   --escaping characters in a string
   --string methods(capitalize(),upper(),lower(),index() etc.,)
 
-###operators
+operators
 
-###if..else
+if..else
   --elif
 
-###dictionaries
+dictionaries
  --syntax
   --stores data in key:value pairs
   --adding,changing,removing etc.,
 
-###while loops
+while loops
   --similar to c++
 
-###for loops
+for loops
   --similar to c++ but syntax
   --range function
 
-###Comments
+Comments
 
-###functions
+functions
   --default parameters
   --arguments
   --function inside functions(can be recursions)
   --decoraters
 
-###try except
+try except
 
-###reading and writing files
+reading and writing files
 
-###modules
+modules
   --similar to libraries in c++
 
-###classes and objects
+classes and objects
   --just basics (some topics not completed)
 
-###Also done some problems in python language which are in cs101 course
+Also done some problems in python language which are in cs101 course
 
 ## week2 — Data Understanding & Text Preprocessing
 
